@@ -1,2 +1,2 @@
-FROM jimmidyson/configmap-reload:v0.5.0
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 MAINTAINER theChen
