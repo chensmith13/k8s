@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+FROM directxman12/k8s-prometheus-adapter:v0.8.4
 MAINTAINER theChen
