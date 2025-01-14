@@ -1,2 +1,2 @@
-FROM directxman12/k8s-prometheus-adapter:v0.8.4
+FROM docker.io/calico/cni:v3.18.6
 MAINTAINER theChen
