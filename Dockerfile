@@ -1,2 +1,2 @@
-FROM docker.io/calico/node:v3.18.6
+FROM python:3.10
 MAINTAINER theChen
